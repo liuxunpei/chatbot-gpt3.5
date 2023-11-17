@@ -1,6 +1,6 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Build-a-chatbot-powered-by-GPT3.5-using-Streamlit
 ```
-⬆️ (Replace above with your app's name)
+⬆️ (Build-a-chatbot-powered-by-GPT3.5-using-Streamlit)
 ```
 
 Description of the app ...
